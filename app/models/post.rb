@@ -22,5 +22,5 @@ class Post < ActiveRecord::Base
   def email_author_about_post
     "saved"
   end
-  
+
 end
